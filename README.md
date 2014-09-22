@@ -7,7 +7,7 @@
 ## Rails Blog
 
 This is a simple lab. All you have to do is get the tests passing. There are a
-of tests, but it should take you less than 5 minutes to finish this lab. Try to figure out the one command you need to run to make the entire suite pass. Read the Model/Controller specs. Try running rspec. You'll need to also remember to migrate your test database, but rspec will clue you in. Browse the code, read, try to take it all in.
+bunch of tests, but it should take you less than 5 minutes to finish this lab. Try to figure out the one command you need to run to make the entire suite pass. **Read the Controller and Views specs for help on figuring out this one command.** Try running rspec. You'll most likely get an error. You'll need to also remember to migrate your test database, but rspec will clue you in. Browse the code, read, try to take it all in.
 
 Browse through the Rails Guides below:
 
