@@ -42,11 +42,11 @@ For the purposes of all Rails labs at Flatiron, you'll be adding the flag `--no-
 
 For instance, say you were making an app to help New Yorkers find apartments. Your apartments should have an address (string), a price (float), a description (text), and an image url (string). You want to make the following things:
 
-1. an apartment model
-2. an apartments table with four columns (address, price, description, image_url)
-3. an apartments controller
-4. routes for apartments (show, new, index, update, edit, delete, create)
-5. views (show, new, edit, index)
+1.  an apartment model
+2.  an apartments table with four columns (address, price, description, image_url)
+3.  an apartments controller
+4.  routes for apartments (show, new, index, update, edit, delete, create)
+5.  views (show, new, edit, index)
 
 To make all these in one command, you would run:
 
