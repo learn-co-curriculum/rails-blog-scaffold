@@ -1,40 +1,18 @@
-# Rails Blog Scaffold
+---
+  tags: rails, generators, scaffolding, introductory
+  language: ruby
+  resources: 4
+---
 
-## Description
+## Rails Blog
 
-Add a short description of your app.
+This is a simple lab. All you have to do is get the tests passing. There are a
+of tests, but it should take you less than 5 minutes to finish this lab. Try to figure out the one command you need to run to make the entire suite pass. Read the Model/Controller specs. Try running rspec. You'll need to also remember to migrate your test database, but rspec will clue you in. Browse the code, read, try to take it all in.
 
-## Screenshots
+Browse through the Rails Guides below:
 
-Add some spiffy screenshots of your app here.
-
-## Background
-
-Why did you want to make this app? What was your development process
-like?
-
-## Features
-
-Bullet point some of the key features of your app here.
-
-## Usage
-
-How do users use your app?
-
-## Development/Contribution
-
-Explain how people can contribute to your app. How should they write tests?
-Any things in particular you'd like to see in pull requests?
-
-## Future
-
-What features are you currently working on? Only mention things that you
-actually are implementing. No pie-in-the-sky-never-gonna-happen stuff.
-
-## Author
-
-Link to your blog, twitter, etc!
-
-## License
-
-Rails Blog Scaffold is MIT Licensed. See LICENSE for details.
+## Resources
+* [Rails Guides](http://guides.rubyonrails.org/) - [Getting Started with Rails](http://guides.rubyonrails.org/getting_started.html)
+* [Rails Guides](http://guides.rubyonrails.org/) - [Layouts and Rendering](http://guides.rubyonrails.org/layouts_and_rendering.html)
+* [Rails Guides](http://guides.rubyonrails.org/) - [Action Controller Overview](http://guides.rubyonrails.org/action_controller_overview.html)
+* [Rails Guides](http://guides.rubyonrails.org/) - [Rails Routing from the Outside In](http://guides.rubyonrails.org/routing.html)
