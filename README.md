@@ -1,7 +1,7 @@
 ---
-  tags: rails, generators, scaffolding, introductory
-  language: ruby
-  resources: 4
+tags: rails, generators, scaffolding, introductory
+language: ruby
+resources: 4
 ---
 
 ## Rails Blog
@@ -10,7 +10,7 @@ This is a simple lab. All you have to do is get the tests passing. There are a b
 
 ### What just happened?
 
-`rails new` generated all of these files and build a fully-fledged web app ready out of the box. This is an example of why the Rails framework is called an opinionated framework that favors convention over configuration. With Sinatra, we can build an app from scratch, by just `require  'sinatra'` in a file and calling `rackup`. Rails is much heavier than that. With an app ready out of the box through generators like `rails new` and `rails generate scaffold`, we're able to build powerful applications very quickly.
+`rails new` generated all of these files and built a fully-fledged web app ready out of the box. This is an example of why the Rails framework is called an opinionated framework that favors convention over configuration. With Sinatra, we can build an app from scratch, by just `require  'sinatra'` in a file and calling `rackup`. Rails is much heavier than that. With an app ready out of the box through generators like `rails new` and `rails generate scaffold`, we're able to build powerful applications very quickly.
 
 Browse through the Rails Guides below:
 
