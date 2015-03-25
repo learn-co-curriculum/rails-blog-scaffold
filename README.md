@@ -39,7 +39,7 @@ For instance, say you were making an app to help New Yorkers find apartments. Yo
 To make all these in one command, you would run:
 
 ```
-> rails generate scaffold Apartment address:string price:float description:text image_url: string
+> rails generate scaffold Apartment address:string price:float description:text image_url:string
 ```
 
 The above command would also build out tests for your views, controller, etc. If you were scaffolding Apartments for a Flatiron lab, you would add that `--no-test-framework` flag, so the command would be:
