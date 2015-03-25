@@ -45,7 +45,7 @@ To make all these in one command, you would run:
 The above command would also build out tests for your views, controller, etc. If you were scaffolding Apartments for a Flatiron lab, you would add that `--no-test-framework` flag, so the command would be:
 
 ```
-> rails generate scaffold Apartment address:string price:float description:text image_url: string --no-test-framework
+> rails generate scaffold Apartment address:string price:float description:text image_url:string --no-test-framework
 ```
 
 This will build everything except for the tests out for you. Not only will it build out the controller, migration, model, and views, it will also create a helper, some JSON builders, a stylesheet, and a [CoffeeScript](http://coffeescript.org/) file. It will also add `resources :apartments` to the `config/routes.rb` file.
