@@ -1,8 +1,4 @@
----
-tags: rails, generators, scaffolding, introductory
-language: ruby
-resources: 4
----
+
 
 # Rails Blog
 
