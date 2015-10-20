@@ -35,7 +35,7 @@ We'll see the following output:
       create    app/assets/stylesheets/scaffolds.css.scss
 ```
 
-As the README mentions, Rails is very opinionated as to where you code should go. When you generate a scaffold, it generates the files and folders that it expects you to need. Some of these will be familiar, while others will be new. 
+As the README mentions, Rails is very opinionated as to where you code should go. When you generate a scaffold, it generates the files and folders that it expects you to need. 
 
 Because we specified that we want a scaffold for a model called `Post` with a column called `title` with a datatype of string, rails added the following to our stack.
 
