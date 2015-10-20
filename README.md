@@ -8,7 +8,7 @@ This is a simple lab. All you have to do is get the tests passing. There are a b
 
 ## What are all these files?
 
-All the files that you currently see in your project directory, with the exception of a few `spec` files, were generated via the `rails new` command. Consequently, it built a fully-fledged web app ready out of the box. This is an example of why the Rails framework is called an opinionated framework that favors convention over configuration. With Sinatra, we can build an app from scratch, by just `require  'sinatra'` in a file and calling `rackup`. Rails is much heavier than that. With an app ready out of the box through generators like `rails new` and `rails generate scaffold`, we're able to build powerful applications very quickly.
+All the files that you currently see in your project directory, with the exception of a few `spec` files, were generated via the `rails new` command. Consequently, it built a fully fledged web app ready out of the box. This is an example of why the Rails framework is called an opinionated framework that favors convention over configuration. With Sinatra, we can build an app from scratch, by just adding `require  'sinatra'` in a file and calling `rackup`. Rails is much heavier than that. With an app ready out of the box through generators like `rails new` and `rails generate scaffold`, we're able to build larger scale applications very quickly.
 
 ## Rails Scaffolding
 
@@ -27,7 +27,7 @@ For the purposes of all Rails labs at Flatiron, you'll be adding the flag `--no-
 For instance, say you were making an app to help New Yorkers find apartments. Your apartments should have an address (string), a price (float), a description (text), and an image url (string). You want to make the following things:
 
 1. an apartment model
-2. an apartments table with four colums (address, price, description, image_url)
+2. an apartments table with four columns (address, price, description, image_url)
 3. an apartments controller
 4. routes for apartments (show, new, index, update, edit, delete, create)
 5. views (show, new, edit, index)
