@@ -85,3 +85,5 @@ Browse through the Rails Guides below:
 * [Rails Guides](http://guides.rubyonrails.org/) - [Layouts and Rendering](http://guides.rubyonrails.org/layouts_and_rendering.html)
 * [Rails Guides](http://guides.rubyonrails.org/) - [Action Controller Overview](http://guides.rubyonrails.org/action_controller_overview.html)
 * [Rails Guides](http://guides.rubyonrails.org/) - [Rails Routing from the Outside In](http://guides.rubyonrails.org/routing.html)
+
+<a href='https://learn.co/lessons/rails-blog-scaffold' data-visibility='hidden'>View this lesson on Learn.co</a>
