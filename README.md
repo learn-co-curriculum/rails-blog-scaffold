@@ -86,4 +86,4 @@ Browse through the Rails Guides below:
 * [Rails Guides](http://guides.rubyonrails.org/) - [Action Controller Overview](http://guides.rubyonrails.org/action_controller_overview.html)
 * [Rails Guides](http://guides.rubyonrails.org/) - [Rails Routing from the Outside In](http://guides.rubyonrails.org/routing.html)
 
-<a href='https://learn.co/lessons/rails-blog-scaffold' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/rails-blog-scaffold' title='Rails Blog'>Rails Blog</a> on Learn.co and start learning to code for free.</p>
