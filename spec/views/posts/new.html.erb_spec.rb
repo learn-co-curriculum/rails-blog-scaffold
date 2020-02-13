@@ -12,7 +12,7 @@ RSpec.describe "posts/new", :type => :view do
 
     assert_select "form[action=?][method=?]", posts_path, "post" do
 
-      assert_select "input#post_title[name=?]", "post[title]"
+      assert_select "input[name=?]", "post[title]"
     end
   end
 end
