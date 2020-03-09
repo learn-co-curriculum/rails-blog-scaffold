@@ -40,7 +40,9 @@ For the purposes of all Rails labs at Flatiron, you'll be adding the flag `--no-
 > rails generate scaffold <capitalized singular model name> <optional first attribute name>:<first attribute type> <optional second attribute name>:<second attribute type> <optional third attribute name>:<third attribute type> <etc.> --no-test-framework
 ```
 
-For instance, say you were making an app to help New Yorkers find apartments. Your apartments should have an address (string), a price (float), a description (text), and an image url (string). You want to make the following things:
+For instance, say you were making an app to help New Yorkers find apartments. Your
+apartments should have an address (string), a price (float), a description (text),
+and an image url (string). You want to make the following things:
 
 1. an apartment model
 2. an apartments table with four columns (address, price, description, image_url)
